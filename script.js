@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>Basics of Git fetched from script.js</h1>'
